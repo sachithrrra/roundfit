@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <advance width="24.0"/>
+  <unicode hex="0300"/>
+  <guideline x="60" y="592" angle="90"/>
+  <guideline x="333" y="592" angle="90"/>
+  <guideline x="242" y="592" angle="90"/>
+  <guideline x="151" y="592" angle="90"/>
+  <anchor x="197" y="492" name="_top"/>
+  <anchor x="197" y="794" name="top"/>
+  <outline>
+    <contour>
+      <point x="233.7516247196413" y="556.7976234189628" type="line" smooth="yes"/>
+      <point x="257.35866696622435" y="548.3287293394711"/>
+      <point x="283.58721911662394" y="558.6592050862504"/>
+      <point x="295.07834873127194" y="580.9519965386676" type="curve" smooth="yes"/>
+      <point x="305.12962822915597" y="600.4514787645626" type="line" smooth="yes"/>
+      <point x="316.53092730384367" y="622.5699989694567"/>
+      <point x="309.93194358656683" y="649.7062506095447"/>
+      <point x="289.6469107608709" y="664.1193002488549" type="curve" smooth="yes"/>
+      <point x="180.8740584754787" y="741.4052742411072" type="line" smooth="yes"/>
+      <point x="156.4622741051591" y="758.7504894515974"/>
+      <point x="122.38201106243986" y="750.8923576083236"/>
+      <point x="108.02996133920306" y="724.6090858260104" type="curve" smooth="yes"/>
+      <point x="80.00818400964317" y="673.2920960176598" type="line" smooth="yes"/>
+      <point x="65.29544149200862" y="646.3482783950037"/>
+      <point x="78.11234260320062" y="612.6323434607352"/>
+      <point x="107.00827460252049" y="602.2660898286922" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>353</integer>
+    </dict>
+  </lib>
+</glyph>

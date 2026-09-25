@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <advance width="24.0"/>
+  <unicode hex="0301"/>
+  <anchor x="147" y="480" name="_top"/>
+  <anchor x="147" y="734" name="top"/>
+  <outline>
+    <contour>
+      <point x="89.45688535088902" y="561.543114649111" type="line" smooth="yes"/>
+      <point x="96.61418816761505" y="554.385811832385"/>
+      <point x="107.99041661598896" y="553.7041308395496"/>
+      <point x="115.95118967174267" y="559.9555354477488" type="curve" smooth="yes"/>
+      <point x="247.26503012978947" y="663.0731524945586" type="line" smooth="yes"/>
+      <point x="256.6970625038063" y="670.4799018434798"/>
+      <point x="257.5350669449017" y="684.4649330550983"/>
+      <point x="249.05499705656212" y="692.9450029434379" type="curve" smooth="yes"/>
+      <point x="195.94500294343788" y="746.0549970565621" type="line" smooth="yes"/>
+      <point x="187.46493305509833" y="754.5350669449017"/>
+      <point x="173.4799018434798" y="753.6970625038064"/>
+      <point x="166.0731524945586" y="744.2650301297895" type="curve" smooth="yes"/>
+      <point x="62.955535447748844" y="612.9511896717427" type="line" smooth="yes"/>
+      <point x="56.70413083954962" y="604.9904166159889"/>
+      <point x="57.38581183238495" y="593.614188167615"/>
+      <point x="64.54311464911098" y="586.456885350889" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>293</integer>
+    </dict>
+  </lib>
+</glyph>

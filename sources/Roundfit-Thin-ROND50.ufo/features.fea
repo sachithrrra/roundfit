@@ -1,0 +1,164 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+
+
+feature aalt {
+# automatic
+feature sups;
+feature frac;
+feature ordn;
+feature pnum;
+feature tnum;
+feature salt;
+feature ss01;
+} aalt;
+
+feature ccmp {
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb ogonekcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+    sub iogonek' @CombiningTopAccents by idotless ogonekcomb;
+} ccmp_Other_1;
+
+lookup ccmp_latn_1 {
+	sub fi by f i;
+	sub fl by f l;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+} ccmp;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+} sups;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature pnum {
+# automatic
+sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+} pnum;
+
+feature tnum {
+# automatic
+sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+} tnum;
+
+feature dlig {
+lookupflag IgnoreMarks;
+sub T T by T_T;
+sub T h by T_h;
+sub T l by T_l;
+sub f t by f_t;
+sub r f by r_f;
+sub r t by r_t;
+sub t f by t_f;
+} dlig;
+
+feature liga {
+lookupflag IgnoreMarks;
+sub f f by f_f;
+sub f i by fi;
+sub f j by f_j;
+sub f l by fl;
+sub t t by t_t;
+} liga;
+
+feature salt {
+sub ae by ae.ss01;
+sub e by e.ss01;
+sub eacute by eacute.ss01;
+sub ecaron by ecaron.ss01;
+sub ecircumflex by ecircumflex.ss01;
+sub edieresis by edieresis.ss01;
+sub edotaccent by edotaccent.ss01;
+sub egrave by egrave.ss01;
+sub emacron by emacron.ss01;
+sub eogonek by eogonek.ss01;
+sub g by g.ss01;
+sub k by k.ss01;
+sub kcommaaccent by kcommaaccent.ss01;
+sub m by m.ss01;
+sub n by n.ss01;
+sub nacute by nacute.ss01;
+sub ncaron by ncaron.ss01;
+sub ncommaaccent by ncommaaccent.ss01;
+sub ntilde by ntilde.ss01;
+sub eng by eng.ss01;
+sub oe by oe.ss01;
+sub tcaron by tcaron.ss01;
+sub tcommaaccent by tcommaaccent.ss01;
+sub one by one.ss01;
+sub ampersand by ampersand.ss01;
+} salt;
+
+feature ss01 {
+featureNames {
+  name "ss01";
+};
+# automatic
+sub ae by ae.ss01;
+sub e by e.ss01;
+sub eacute by eacute.ss01;
+sub ecaron by ecaron.ss01;
+sub ecircumflex by ecircumflex.ss01;
+sub edieresis by edieresis.ss01;
+sub edotaccent by edotaccent.ss01;
+sub egrave by egrave.ss01;
+sub emacron by emacron.ss01;
+sub eogonek by eogonek.ss01;
+sub g by g.ss01;
+sub k by k.ss01;
+sub kcommaaccent by kcommaaccent.ss01;
+sub m by m.ss01;
+sub n by n.ss01;
+sub nacute by nacute.ss01;
+sub ncaron by ncaron.ss01;
+sub ncommaaccent by ncommaaccent.ss01;
+sub ntilde by ntilde.ss01;
+sub eng by eng.ss01;
+sub oe by oe.ss01;
+sub tcaron by tcaron.ss01;
+sub tcommaaccent by tcommaaccent.ss01;
+sub one by one.ss01;
+sub ampersand by ampersand.ss01;
+} ss01;

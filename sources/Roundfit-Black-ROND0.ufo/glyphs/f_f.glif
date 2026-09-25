@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f" format="2">
+  <advance width="818.0"/>
+  <anchor x="397" y="0" name="caret_1"/>
+  <outline>
+    <contour>
+      <point x="117.0" y="20.000000000205546" type="line" smooth="yes"/>
+      <point x="117.0" y="8.95430500354648"/>
+      <point x="125.95430500329182" y="0.0"/>
+      <point x="136.9999999999509" y="0.0" type="curve" smooth="yes"/>
+      <point x="293.0000000000491" y="0.0" type="line" smooth="yes"/>
+      <point x="304.04569499663523" y="0.0"/>
+      <point x="313.0" y="8.954305003355229"/>
+      <point x="313.0" y="19.999999999941338" type="curve" smooth="yes"/>
+      <point x="313.0" y="511.0" type="line" smooth="yes"/>
+      <point x="313.0" y="549"/>
+      <point x="338.0" y="572"/>
+      <point x="378.0" y="572" type="curve" smooth="yes"/>
+      <point x="418.0" y="572"/>
+      <point x="443.0" y="549"/>
+      <point x="443.0" y="511" type="curve"/>
+      <point x="599.0" y="542.0" type="line"/>
+      <point x="599.0" y="629"/>
+      <point x="512.0" y="734"/>
+      <point x="358.0" y="734" type="curve" smooth="yes"/>
+      <point x="204.0" y="734"/>
+      <point x="117.0" y="629"/>
+      <point x="117.0" y="492" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="17.0" y="351.99999999992724" type="line" smooth="yes"/>
+      <point x="17.0" y="340.9543050033115"/>
+      <point x="25.95430500345656" y="332.0"/>
+      <point x="37.000000000072305" y="332.0" type="curve" smooth="yes"/>
+      <point x="753.9999999999277" y="332.0" type="line" smooth="yes"/>
+      <point x="765.0456949965435" y="332.0"/>
+      <point x="774.0" y="340.9543050033115"/>
+      <point x="774.0" y="351.99999999992724" type="curve" smooth="yes"/>
+      <point x="774.0" y="472.00000000007276" type="line" smooth="yes"/>
+      <point x="774.0" y="483.0456949966885"/>
+      <point x="765.0456949965435" y="492.0"/>
+      <point x="753.9999999999277" y="492.0" type="curve" smooth="yes"/>
+      <point x="37.000000000072305" y="492.0" type="line" smooth="yes"/>
+      <point x="25.95430500345656" y="492.0"/>
+      <point x="17.0" y="483.0456949966885"/>
+      <point x="17.0" y="472.00000000007276" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="443.0" y="19.999999999941338" type="line" smooth="yes"/>
+      <point x="443.0" y="8.954305003355229"/>
+      <point x="451.95430500336477" y="0.0"/>
+      <point x="462.9999999999509" y="0.0" type="curve" smooth="yes"/>
+      <point x="619.0000000000491" y="0.0" type="line" smooth="yes"/>
+      <point x="630.0456949966136" y="0.0"/>
+      <point x="639.0" y="8.954305003298613"/>
+      <point x="639.0" y="19.99999999986312" type="curve" smooth="yes"/>
+      <point x="639.0" y="521.0" type="line" smooth="yes"/>
+      <point x="639.0" y="552"/>
+      <point x="659.0" y="572"/>
+      <point x="690.0" y="572" type="curve" smooth="yes"/>
+      <point x="698.6586854459965" y="572.0"/>
+      <point x="707.0245082605371" y="570.5356868427205"/>
+      <point x="714.463517092456" y="567.6070605281614" type="curve" smooth="yes"/>
+      <point x="724.8020881517491" y="563.5369200103452"/>
+      <point x="737.0352215103892" y="563.0352215103892"/>
+      <point x="744.8918141364206" y="570.8918141364206" type="curve" smooth="yes"/>
+      <point x="838.0357457942478" y="664.0357457942478" type="line" smooth="yes"/>
+      <point x="845.7453059551448" y="671.7453059551448"/>
+      <point x="845.8751002698555" y="684.4222350437232"/>
+      <point x="837.5350367541686" y="691.4449109086117" type="curve" smooth="yes"/>
+      <point x="799.1963062198505" y="723.7276959386546"/>
+      <point x="746.2256371299804" y="744.0"/>
+      <point x="680.0" y="744" type="curve" smooth="yes"/>
+      <point x="530.0" y="744"/>
+      <point x="443.0" y="639"/>
+      <point x="443.0" y="511" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>f</string>
+    </dict>
+  </lib>
+</glyph>

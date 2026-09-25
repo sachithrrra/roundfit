@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="234"/>
+  <unicode hex="2018"/>
+  <note>
+quoteleft
+</note>
+  <outline>
+    <contour>
+      <point x="26" y="455" type="curve" smooth="yes"/>
+      <point x="26" y="383"/>
+      <point x="62" y="348"/>
+      <point x="115" y="348" type="curve" smooth="yes"/>
+      <point x="167" y="348"/>
+      <point x="205" y="383"/>
+      <point x="205" y="435" type="curve" smooth="yes"/>
+      <point x="205" y="486"/>
+      <point x="167" y="532"/>
+      <point x="96" y="518" type="curve"/>
+      <point x="102" y="485" type="line"/>
+      <point x="97" y="554"/>
+      <point x="155" y="589"/>
+      <point x="198" y="597" type="curve"/>
+      <point x="198" y="660" type="line"/>
+      <point x="110" y="651"/>
+      <point x="26" y="579"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 4 values pushed */
+17 15 1 8 
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 11 values pushed */
+11 6 5 3 0 31 0 0 0 46 2 
+PUSHB[ ]	/* 1 value pushed */
+59 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

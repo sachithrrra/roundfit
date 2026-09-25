@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="264.0"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="131.0" y="346.70000000000846" type="line" smooth="yes"/>
+      <point x="131.0" y="340.2382684269839"/>
+      <point x="136.23826842698253" y="335.0"/>
+      <point x="142.7000000000071" y="335.0" type="curve" smooth="yes"/>
+      <point x="145.2999999999929" y="335.0" type="line" smooth="yes"/>
+      <point x="151.7617315730122" y="335.0"/>
+      <point x="157.0" y="340.2382684269701"/>
+      <point x="157.0" y="346.69999999998936" type="curve" smooth="yes"/>
+      <point x="157.0" y="630.9999999998859" type="line" smooth="yes"/>
+      <point x="157.0" y="655.8528137423107"/>
+      <point x="136.85281374239747" y="676.0"/>
+      <point x="111.99999999997272" y="676.0" type="curve" smooth="yes"/>
+      <point x="67.79999999997199" y="676.0" type="line" smooth="yes"/>
+      <point x="61.83532470180535" y="676.0"/>
+      <point x="57.0" y="671.1646752981601"/>
+      <point x="57.0" y="665.1999999999935" type="curve" smooth="yes"/>
+      <point x="57.0" y="662.8000000000065" type="line" smooth="yes"/>
+      <point x="57.0" y="656.8353247018291"/>
+      <point x="61.835324701833656" y="652.0"/>
+      <point x="67.8000000000111" y="652.0" type="curve" smooth="yes"/>
+      <point x="113.5000000000191" y="652.0" type="line" smooth="yes"/>
+      <point x="123.16498312203375" y="652.0"/>
+      <point x="131.0" y="644.1649831220833"/>
+      <point x="131.0" y="634.5000000000687" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>one</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>one</string>
+    </dict>
+  </lib>
+</glyph>

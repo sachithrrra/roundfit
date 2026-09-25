@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncaron.ss01" format="2">
+  <advance width="550.0"/>
+  <anchor x="264" y="0" name="bottom"/>
+  <anchor x="264" y="764" name="top"/>
+  <outline>
+    <component base="n.ss01" xOffset="12.0"/>
+    <component base="caroncomb" xOffset="58.0"/>
+  </outline>
+</glyph>

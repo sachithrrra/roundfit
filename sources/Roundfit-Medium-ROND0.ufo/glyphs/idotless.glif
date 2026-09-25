@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="256.0"/>
+  <unicode hex="0131"/>
+  <anchor x="116" y="0" name="bottom"/>
+  <anchor x="171" y="0" name="ogonek"/>
+  <anchor x="116" y="480" name="top"/>
+  <outline>
+    <contour>
+      <point x="73.0" y="19.99999999992724" type="line" smooth="yes"/>
+      <point x="73.0" y="8.954305003322672"/>
+      <point x="81.95430500342727" y="0.0"/>
+      <point x="93.00000000003183" y="0.0" type="curve" smooth="yes"/>
+      <point x="162.99999999996817" y="0.0" type="line" smooth="yes"/>
+      <point x="174.04569499657273" y="0.0"/>
+      <point x="183.0" y="8.954305003322672"/>
+      <point x="183.0" y="19.99999999992724" type="curve" smooth="yes"/>
+      <point x="183.0" y="460.00000000007276" type="line" smooth="yes"/>
+      <point x="183.0" y="471.04569499667735"/>
+      <point x="174.04569499657273" y="480.0"/>
+      <point x="162.99999999996817" y="480.0" type="curve" smooth="yes"/>
+      <point x="93.00000000003183" y="480.0" type="line" smooth="yes"/>
+      <point x="81.95430500342727" y="480.0"/>
+      <point x="73.0" y="471.04569499667735"/>
+      <point x="73.0" y="460.00000000007276" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

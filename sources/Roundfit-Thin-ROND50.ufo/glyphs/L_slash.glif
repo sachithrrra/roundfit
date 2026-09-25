@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="676.0"/>
+  <unicode hex="0141"/>
+  <anchor x="398" y="0" name="bottom"/>
+  <anchor x="398" y="338" name="center"/>
+  <anchor x="398" y="676" name="top"/>
+  <outline>
+    <contour>
+      <point x="104.4755151844397" y="297.1917675769123" type="line" smooth="yes"/>
+      <point x="96.75642804890302" y="292.74194087524995"/>
+      <point x="92.0" y="284.50984084485685"/>
+      <point x="92.0" y="275.59999999999127" type="curve" smooth="yes"/>
+      <point x="92.0" y="272.40000000000873" type="line" smooth="yes"/>
+      <point x="92.0" y="265.9975619249008"/>
+      <point x="98.92872953000064" y="261.9942087878827"/>
+      <point x="104.4755151844397" y="265.1917675769123" type="curve" smooth="yes"/>
+      <point x="334.5244848155603" y="397.8082324230877" type="line" smooth="yes"/>
+      <point x="342.24357195109695" y="402.25805912475005"/>
+      <point x="347.0" y="410.49015915514315"/>
+      <point x="347.0" y="419.40000000000873" type="curve" smooth="yes"/>
+      <point x="347.0" y="422.59999999999127" type="line" smooth="yes"/>
+      <point x="347.0" y="429.0024380750992"/>
+      <point x="340.0712704699994" y="433.0057912121173"/>
+      <point x="334.5244848155603" y="429.8082324230877" type="curve" smooth="yes"/>
+    </contour>
+    <component base="L" xOffset="106.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lslash</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="812.0"/>
+  <unicode hex="00D0"/>
+  <anchor x="379" y="712" name="top"/>
+  <outline>
+    <contour>
+      <point x="79.99999999982947" y="430.0" type="line" smooth="yes"/>
+      <point x="52.38576250833375" y="430.0"/>
+      <point x="30.0" y="407.61423749148435"/>
+      <point x="30.0" y="379.99999999998863" type="curve" smooth="yes"/>
+      <point x="30.0" y="335.00000000001137" type="line" smooth="yes"/>
+      <point x="30.0" y="307.38576250851565"/>
+      <point x="52.38576250833375" y="285.0"/>
+      <point x="79.99999999982947" y="285.0" type="curve" smooth="yes"/>
+      <point x="365.00000000017053" y="285.0" type="line" smooth="yes"/>
+      <point x="392.61423749166624" y="285.0"/>
+      <point x="415.0" y="307.38576250851565"/>
+      <point x="415.0" y="335.00000000001137" type="curve" smooth="yes"/>
+      <point x="415.0" y="379.99999999998863" type="line" smooth="yes"/>
+      <point x="415.0" y="407.61423749148435"/>
+      <point x="392.61423749166624" y="430.0"/>
+      <point x="365.00000000017053" y="430.0" type="curve" smooth="yes"/>
+    </contour>
+    <component base="D" xOffset="32.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>D</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

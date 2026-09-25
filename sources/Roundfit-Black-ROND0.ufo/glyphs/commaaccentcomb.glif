@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <advance width="24.0"/>
+  <unicode hex="0326"/>
+  <anchor x="164" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="83.47878458105106" y="-415.2744676177058" type="line" smooth="yes"/>
+      <point x="91.50081622780223" y="-422.8569358865528"/>
+      <point x="104.14911183622702" y="-422.5065379009443"/>
+      <point x="111.73904489224742" y="-414.4915685937867" type="curve" smooth="yes"/>
+      <point x="223.0" y="-297.0" type="line" smooth="yes"/>
+      <point x="265.0" y="-253"/>
+      <point x="280.0" y="-225"/>
+      <point x="286.0" y="-201" type="curve" smooth="yes"/>
+      <point x="303.0" y="-140"/>
+      <point x="267.0" y="-80"/>
+      <point x="210.0" y="-64" type="curve" smooth="yes"/>
+      <point x="149.0" y="-48"/>
+      <point x="92.0" y="-85"/>
+      <point x="76.0" y="-144" type="curve" smooth="yes"/>
+      <point x="61.0" y="-200"/>
+      <point x="93.0" y="-253"/>
+      <point x="138.0" y="-265" type="curve" smooth="yes"/>
+      <point x="150.4521095590958" y="-268.27687093660415"/>
+      <point x="163.33373444359802" y="-263.8224660158924"/>
+      <point x="175.8003948815164" y="-255.0147043258258" type="curve" smooth="yes"/>
+      <point x="183.27827089182782" y="-249.7315452813747"/>
+      <point x="178.50448552051466" y="-238.28939499086817"/>
+      <point x="169.34999999998445" y="-238.45000000000027" type="curve" smooth="yes"/>
+      <point x="146.47850843353854" y="-238.8512542380081" type="line" smooth="yes"/>
+      <point x="141.05964472245054" y="-238.94632202241314"/>
+      <point x="135.91136884977936" y="-241.23649884227163"/>
+      <point x="132.21224409108572" y="-245.19750853963387" type="curve" smooth="yes"/>
+      <point x="38.56883073578729" y="-345.4705440793782" type="line" smooth="yes"/>
+      <point x="31.061810395840197" y="-353.5090348858702"/>
+      <point x="31.45439736843815" y="-366.10073175920866"/>
+      <point x="39.44760223019921" y="-373.655952792928" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>298</integer>
+    </dict>
+  </lib>
+</glyph>

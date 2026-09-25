@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>720</integer>
+    <key>capHeight</key>
+    <integer>700</integer>
+    <key>copyright</key>
+    <string>Copyright 2021 The Outfit Project Authors (https://github.com/Outfitio/Outfit-Fonts). Copyright 2026 Sachithra Pushpawela.</string>
+    <key>descender</key>
+    <integer>-200</integer>
+    <key>familyName</key>
+    <string>Roundfit</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2026/09/25 16:19:10</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1000</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-260</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>Rounded-corner derivative of Outfit.</string>
+    <key>openTypeNameDesigner</key>
+    <string>Rodrigo Fuenzalida</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>www.rfuenzalida.com</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://openfontlicense.org</string>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1000</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-260</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2VendorID</key>
+    <string>NONE</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1000</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>260</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-16</integer>
+      <integer>0</integer>
+      <integer>480</integer>
+      <integer>496</integer>
+      <integer>700</integer>
+      <integer>716</integer>
+      <integer>720</integer>
+      <integer>736</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-216</integer>
+      <integer>-200</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>100</integer>
+      <integer>110</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>110</integer>
+      <integer>118</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Roundfit Medium</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Medium</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>480</integer>
+  </dict>
+</plist>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="375.0"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="237.0" y="346.70000000003665" type="line" smooth="yes"/>
+      <point x="237.0" y="340.2382684270043"/>
+      <point x="242.23826842697474" y="335.0"/>
+      <point x="248.7000000000071" y="335.0" type="curve" smooth="yes"/>
+      <point x="251.2999999999929" y="335.0" type="line" smooth="yes"/>
+      <point x="257.76173157302526" y="335.0"/>
+      <point x="263.0" y="340.2382684270043"/>
+      <point x="263.0" y="346.70000000003665" type="curve" smooth="yes"/>
+      <point x="263.0" y="408.499999999965" type="line" smooth="yes"/>
+      <point x="263.0" y="418.1649831220177"/>
+      <point x="270.8350168779623" y="426.0"/>
+      <point x="280.500000000015" y="426.0" type="curve" smooth="yes"/>
+      <point x="304.74999999998863" y="426.0" type="line" smooth="yes"/>
+      <point x="310.96320343559006" y="426.0"/>
+      <point x="316.0" y="431.0367965644054"/>
+      <point x="316.0" y="437.2500000000068" type="curve" smooth="yes"/>
+      <point x="316.0" y="439.7499999999932" type="line" smooth="yes"/>
+      <point x="316.0" y="445.9632034355946"/>
+      <point x="310.96320343559006" y="451.0"/>
+      <point x="304.74999999998863" y="451.0" type="curve" smooth="yes"/>
+      <point x="280.500000000015" y="451.0" type="line" smooth="yes"/>
+      <point x="270.8350168779707" y="451.0"/>
+      <point x="263.0" y="458.83501687796024"/>
+      <point x="263.0" y="468.50000000000455" type="curve" smooth="yes"/>
+      <point x="263.0" y="553.3000000000147" type="line" smooth="yes"/>
+      <point x="263.0" y="559.7617315730329"/>
+      <point x="257.76173157301105" y="565.0"/>
+      <point x="251.2999999999929" y="565.0" type="curve" smooth="yes"/>
+      <point x="248.7000000000071" y="565.0" type="line" smooth="yes"/>
+      <point x="242.23826842698892" y="565.0"/>
+      <point x="237.0" y="559.7617315730329"/>
+      <point x="237.0" y="553.3000000000147" type="curve" smooth="yes"/>
+      <point x="237.0" y="468.50000000000455" type="line" smooth="yes"/>
+      <point x="237.0" y="458.8350168779701"/>
+      <point x="229.16498312205505" y="451.0"/>
+      <point x="219.50000000002058" y="451.0" type="curve" smooth="yes"/>
+      <point x="109.51293182370988" y="451.0" type="line" smooth="yes"/>
+      <point x="101.72142592963674" y="451.0"/>
+      <point x="96.84141821402747" y="459.42262292784403"/>
+      <point x="100.71649706340973" y="466.1821590072245" type="curve" smooth="yes"/>
+      <point x="214.06201513758907" y="663.8976503915169" type="line" smooth="yes"/>
+      <point x="217.15100656322528" y="669.2859662947697"/>
+      <point x="213.26094326980981" y="676.0"/>
+      <point x="207.04999999999154" y="676.0" type="curve" smooth="yes"/>
+      <point x="203.95000000000846" y="676.0" type="line" smooth="yes"/>
+      <point x="195.33499266400813" y="676.0"/>
+      <point x="187.39208296517367" y="671.3458711378483"/>
+      <point x="183.18078862959283" y="663.8303304774272" type="curve" smooth="yes"/>
+      <point x="63.959542085972316" y="451.0662597226583" type="line" smooth="yes"/>
+      <point x="61.36335749286224" y="446.4330687564926"/>
+      <point x="60.0" y="441.2109917125156"/>
+      <point x="60.0" y="435.8999999999951" type="curve" smooth="yes"/>
+      <point x="60.0" y="434.1000000000049" type="line" smooth="yes"/>
+      <point x="60.0" y="429.62649352637317"/>
+      <point x="63.62649352637178" y="426.0"/>
+      <point x="68.10000000000355" y="426.0" type="curve" smooth="yes"/>
+      <point x="219.50000000000227" y="426.0" type="line" smooth="yes"/>
+      <point x="229.1649831220502" y="426.0"/>
+      <point x="237.0" y="418.1649831220129"/>
+      <point x="237.0" y="408.499999999965" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>four</string>
+    </dict>
+  </lib>
+</glyph>

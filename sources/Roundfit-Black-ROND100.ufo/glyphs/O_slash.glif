@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="842.0"/>
+  <unicode hex="00D8"/>
+  <anchor x="409" y="0" name="bottom"/>
+  <anchor x="409" y="356" name="center"/>
+  <anchor x="736" y="10" name="ogonek"/>
+  <anchor x="409" y="712" name="top"/>
+  <anchor x="20" y="712" name="topleft"/>
+  <anchor x="798" y="712" name="topright"/>
+  <outline>
+    <contour>
+      <point x="751.450000000033" y="698.549999999967" type="line" smooth="yes"/>
+      <point x="721.3780953717404" y="728.6219046282596"/>
+      <point x="672.6219046283042" y="728.6219046283042"/>
+      <point x="642.5500000000116" y="698.5500000000116" type="curve" smooth="yes"/>
+      <point x="78.44999999998845" y="134.44999999998845" type="line" smooth="yes"/>
+      <point x="48.37809537169582" y="104.37809537169582"/>
+      <point x="48.37809537174038" y="55.62190462825962"/>
+      <point x="78.45000000003301" y="25.549999999966985" type="curve" smooth="yes"/>
+      <point x="90.54999999996699" y="13.450000000033015" type="line" smooth="yes"/>
+      <point x="120.62190462825961" y="-16.62190462825962"/>
+      <point x="169.37809537169582" y="-16.621904628304183"/>
+      <point x="199.44999999998845" y="13.44999999998845" type="curve" smooth="yes"/>
+      <point x="763.5500000000116" y="577.5500000000116" type="line" smooth="yes"/>
+      <point x="793.6219046283042" y="607.6219046283042"/>
+      <point x="793.6219046282596" y="656.3780953717404"/>
+      <point x="763.549999999967" y="686.450000000033" type="curve" smooth="yes"/>
+    </contour>
+    <component base="O" xOffset="12.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

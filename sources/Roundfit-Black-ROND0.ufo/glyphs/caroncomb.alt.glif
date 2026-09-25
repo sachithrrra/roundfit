@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.alt" format="2">
+  <advance width="24.0"/>
+  <anchor x="24" y="492" name="_top"/>
+  <outline>
+    <contour>
+      <point x="159.41899110186569" y="120.58964121716417" type="line" smooth="yes"/>
+      <point x="169.1249732477419" y="115.29546913759532"/>
+      <point x="181.28511263876072" y="118.88066692185879"/>
+      <point x="186.56652031818567" y="128.59360058516904" type="curve" smooth="yes"/>
+      <point x="264.0" y="271.0" type="line" smooth="yes"/>
+      <point x="293.0" y="324"/>
+      <point x="300.0" y="355"/>
+      <point x="300.0" y="380" type="curve" smooth="yes"/>
+      <point x="300.0" y="443"/>
+      <point x="250.0" y="492"/>
+      <point x="191.0" y="492" type="curve" smooth="yes"/>
+      <point x="128.0" y="492"/>
+      <point x="82.0" y="441"/>
+      <point x="82.0" y="380" type="curve" smooth="yes"/>
+      <point x="82.0" y="322"/>
+      <point x="127.0" y="280"/>
+      <point x="173.0" y="280" type="curve" smooth="yes"/>
+      <point x="186.13256189999265" y="280.0"/>
+      <point x="197.54048197941393" y="287.32972773742836"/>
+      <point x="207.22376023826382" y="298.8749504609893" type="curve" smooth="yes"/>
+      <point x="213.1109250000208" y="305.89412584435337"/>
+      <point x="205.52697746315422" y="315.7019381842095"/>
+      <point x="196.69999999998527" y="313.2499999999959" type="curve" smooth="yes"/>
+      <point x="175.25185831238286" y="307.2921828645508" type="line" smooth="yes"/>
+      <point x="169.98203647078054" y="305.8283434641057"/>
+      <point x="165.54161402113388" y="302.2702006036609"/>
+      <point x="162.96437046284245" y="297.4461293278846" type="curve" smooth="yes"/>
+      <point x="98.34286716034785" y="176.48793083859982" type="line" smooth="yes"/>
+      <point x="93.1698799170895" y="166.80515984480857"/>
+      <point x="96.76867737717879" y="154.76253961244794"/>
+      <point x="106.40618967201226" y="149.50571472435695" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>358</integer>
+    </dict>
+  </lib>
+</glyph>

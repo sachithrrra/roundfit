@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat" format="2">
+  <advance width="825.0"/>
+  <unicode hex="0110"/>
+  <anchor x="392" y="712" name="top"/>
+  <outline>
+    <contour>
+      <point x="12.0" y="329.00000000000455" type="line" smooth="yes"/>
+      <point x="12.0" y="301.3857625084743"/>
+      <point x="34.385762508431085" y="279.0"/>
+      <point x="61.99999999996135" y="279.0" type="curve" smooth="yes"/>
+      <point x="451.00000000003865" y="279.0" type="line" smooth="yes"/>
+      <point x="478.61423749156893" y="279.0"/>
+      <point x="501.0" y="301.3857625084743"/>
+      <point x="501.0" y="329.00000000000455" type="curve" smooth="yes"/>
+      <point x="501.0" y="382.99999999999545" type="line" smooth="yes"/>
+      <point x="501.0" y="410.6142374915257"/>
+      <point x="478.61423749156893" y="433.0"/>
+      <point x="451.00000000003865" y="433.0" type="curve" smooth="yes"/>
+      <point x="61.99999999996135" y="433.0" type="line" smooth="yes"/>
+      <point x="34.385762508431085" y="433.0"/>
+      <point x="12.0" y="410.6142374915257"/>
+      <point x="12.0" y="382.99999999999545" type="curve" smooth="yes"/>
+    </contour>
+    <component base="D" xOffset="45.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>D</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

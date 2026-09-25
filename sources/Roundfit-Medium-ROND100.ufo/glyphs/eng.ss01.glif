@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eng.ss01" format="2">
+  <advance width="550.0"/>
+  <anchor x="264" y="0" name="bottom"/>
+  <anchor x="264" y="480" name="top"/>
+  <outline>
+    <contour>
+      <point x="321.0" y="-210" type="curve" smooth="yes"/>
+      <point x="410.0" y="-210"/>
+      <point x="489.0" y="-151"/>
+      <point x="489.0" y="-41" type="curve" smooth="yes"/>
+      <point x="489.0" y="133.49999999995634" type="line" smooth="yes"/>
+      <point x="489.0" y="160.83809511660095"/>
+      <point x="466.8380951166146" y="183.0"/>
+      <point x="439.49999999997" y="183.0" type="curve" smooth="yes"/>
+      <point x="428.50000000003" y="183.0" type="line" smooth="yes"/>
+      <point x="401.1619048834099" y="183.0"/>
+      <point x="379.0" y="160.83809511666516"/>
+      <point x="379.0" y="133.50000000004502" type="curve" smooth="yes"/>
+      <point x="379.0" y="-42.0" type="line" smooth="yes"/>
+      <point x="379.0" y="-85"/>
+      <point x="349.0" y="-107"/>
+      <point x="313.0" y="-107" type="curve" smooth="yes"/>
+      <point x="296.86143242944445" y="-107.0"/>
+      <point x="283.8198132920564" y="-103.90305156683249"/>
+      <point x="272.66872127453104" y="-97.53680879859678" type="curve" smooth="yes"/>
+      <point x="257.73063482357975" y="-89.00854226737387"/>
+      <point x="238.5351261635804" y="-86.46487383641961"/>
+      <point x="226.37211344378784" y="-98.62788655621216" type="curve" smooth="yes"/>
+      <point x="209.95000000001937" y="-115.04999999998063" type="line" smooth="yes"/>
+      <point x="191.95318670852654" y="-133.04681329147346"/>
+      <point x="190.28433117152542" y="-162.97582696438553"/>
+      <point x="210.67130344361294" y="-178.2120318355088" type="curve" smooth="yes"/>
+      <point x="239.02746479469113" y="-199.40401061183627"/>
+      <point x="272.6974540102801" y="-210.0"/>
+    </contour>
+    <component base="n.ss01" xOffset="12.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

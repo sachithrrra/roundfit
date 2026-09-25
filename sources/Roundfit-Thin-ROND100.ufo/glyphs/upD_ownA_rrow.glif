@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upDownArrow" format="2">
+  <advance width="682.0"/>
+  <unicode hex="2195"/>
+  <outline>
+    <component base="upArrow" xOffset="12.0" yOffset="28.0"/>
+    <component base="downArrow" xOffset="12.0" yOffset="-224.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

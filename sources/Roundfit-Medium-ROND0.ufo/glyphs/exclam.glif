@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="286.0"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="96.40413311144084" y="251.38553610779127" type="line" smooth="yes"/>
+      <point x="96.73614179994622" y="240.58418677508283"/>
+      <point x="105.58824101553213" y="232.0"/>
+      <point x="116.3946917361177" y="232.0" type="curve" smooth="yes"/>
+      <point x="162.6053082638823" y="232.0" type="line" smooth="yes"/>
+      <point x="173.41175898446787" y="232.0"/>
+      <point x="182.2638582000538" y="240.58418677508283"/>
+      <point x="182.59586688855916" y="251.38553610779127" type="curve" smooth="yes"/>
+      <point x="196.36635869183874" y="699.3855361078204" type="line" smooth="yes"/>
+      <point x="196.71311500498848" y="710.6666748289585"/>
+      <point x="187.6622667768155" y="720.0"/>
+      <point x="176.37580006724374" y="720.0" type="curve" smooth="yes"/>
+      <point x="102.62419993275626" y="720.0" type="line" smooth="yes"/>
+      <point x="91.3377332231845" y="720.0"/>
+      <point x="82.28688499501152" y="710.6666748289585"/>
+      <point x="82.63364130816126" y="699.3855361078204" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="139.0" y="-10" type="curve" smooth="yes"/>
+      <point x="182.0" y="-10"/>
+      <point x="212.0" y="22"/>
+      <point x="212.0" y="64" type="curve" smooth="yes"/>
+      <point x="212.0" y="106"/>
+      <point x="182.0" y="138"/>
+      <point x="139.0" y="138" type="curve" smooth="yes"/>
+      <point x="96.0" y="138"/>
+      <point x="66.0" y="106"/>
+      <point x="66.0" y="64" type="curve" smooth="yes"/>
+      <point x="66.0" y="22"/>
+      <point x="96.0" y="-10"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="772.0"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="12.0" y="561.300000000042" type="line" smooth="yes"/>
+      <point x="12.0" y="523.0266668367973"/>
+      <point x="43.026666836607234" y="492.0"/>
+      <point x="81.29999999985193" y="492.0" type="curve" smooth="yes"/>
+      <point x="690.7000000001481" y="492.0" type="line" smooth="yes"/>
+      <point x="728.9733331633928" y="492.0"/>
+      <point x="760.0" y="523.0266668367973"/>
+      <point x="760.0" y="561.300000000042" type="curve" smooth="yes"/>
+      <point x="760.0" y="576.699999999958" type="line" smooth="yes"/>
+      <point x="760.0" y="614.9733331632027"/>
+      <point x="728.9733331633928" y="646.0"/>
+      <point x="690.7000000001481" y="646.0" type="curve" smooth="yes"/>
+      <point x="81.29999999985193" y="646.0" type="line" smooth="yes"/>
+      <point x="43.026666836607234" y="646.0"/>
+      <point x="12.0" y="614.9733331632027"/>
+      <point x="12.0" y="576.699999999958" type="curve" smooth="yes"/>
+    </contour>
+    <component base="H" xOffset="12.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100"/>
+    <axis tag="ROND" name="Roundness" minimum="0" maximum="100" default="50"/>
+  </axes>
+  <rules>
+    <rule name="BRACKET.Weight_600_900">
+      <conditionset>
+        <condition name="Weight" minimum="600" maximum="900"/>
+      </conditionset>
+      <sub name="dollar" with="dollar.BRACKET.varAlt01"/>
+      <sub name="cent" with="cent.BRACKET.varAlt01"/>
+      <sub name="Dcroat" with="Dcroat.BRACKET.varAlt01"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="Roundfit-Thin-ROND0.ufo" name="Roundfit Thin ROND0" familyname="Roundfit" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roundfit-Thin-ROND50.ufo" name="Roundfit Thin ROND50" familyname="Roundfit" stylename="Thin">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="Roundfit-Thin-ROND100.ufo" name="Roundfit Thin ROND100" familyname="Roundfit" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Roundfit-Medium-ROND0.ufo" name="Roundfit Medium ROND0" familyname="Roundfit" stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Roundness" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roundfit-Medium-ROND50.ufo" name="Roundfit Medium ROND50" familyname="Roundfit" stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="Roundfit-Medium-ROND100.ufo" name="Roundfit Medium ROND100" familyname="Roundfit" stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Roundness" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Roundfit-Black-ROND0.ufo" name="Roundfit Black ROND0" familyname="Roundfit" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roundfit-Black-ROND50.ufo" name="Roundfit Black ROND50" familyname="Roundfit" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="Roundfit-Black-ROND100.ufo" name="Roundfit Black ROND100" familyname="Roundfit" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Roundfit Thin" familyname="Roundfit" stylename="Thin" filename="instance_ufos/Roundfit-Thin.ufo" stylemapfamilyname="Roundfit Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </instance>
+    <instance name="Roundfit ExtraLight" familyname="Roundfit" stylename="ExtraLight" filename="instance_ufos/Roundfit-ExtraLight.ufo" stylemapfamilyname="Roundfit ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </instance>
+    <instance name="Roundfit Light" familyname="Roundfit" stylename="Light" filename="instance_ufos/Roundfit-Light.ufo" stylemapfamilyname="Roundfit Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </instance>
+    <instance name="Roundfit Regular" familyname="Roundfit" stylename="Regular" filename="instance_ufos/Roundfit-Regular.ufo" stylemapfamilyname="Roundfit" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </instance>
+    <instance name="Roundfit Medium" familyname="Roundfit" stylename="Medium" filename="instance_ufos/Roundfit-Medium.ufo" stylemapfamilyname="Roundfit Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </instance>
+    <instance name="Roundfit SemiBold" familyname="Roundfit" stylename="SemiBold" filename="instance_ufos/Roundfit-SemiBold.ufo" stylemapfamilyname="Roundfit SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </instance>
+    <instance name="Roundfit Bold" familyname="Roundfit" stylename="Bold" filename="instance_ufos/Roundfit-Bold.ufo" stylemapfamilyname="Roundfit" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </instance>
+    <instance name="Roundfit ExtraBold" familyname="Roundfit" stylename="ExtraBold" filename="instance_ufos/Roundfit-ExtraBold.ufo" stylemapfamilyname="Roundfit ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </instance>
+    <instance name="Roundfit Black" familyname="Roundfit" stylename="Black" filename="instance_ufos/Roundfit-Black.ufo" stylemapfamilyname="Roundfit Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Roundness" xvalue="50"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

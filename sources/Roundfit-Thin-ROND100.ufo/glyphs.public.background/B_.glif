@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <outline>
+    <contour>
+      <point x="424" y="354" type="move"/>
+      <point x="496" y="374"/>
+      <point x="536" y="440"/>
+      <point x="536" y="507" type="curve" smooth="yes"/>
+      <point x="536" y="594"/>
+      <point x="482" y="676"/>
+      <point x="349" y="676" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="676" type="line"/>
+      <point x="94" y="676" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="529" y="29" type="line"/>
+      <point x="112" y="29" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="333" type="line"/>
+      <point x="499" y="333" type="line"/>
+      <point x="499" y="361" type="line"/>
+      <point x="112" y="361" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="647" type="line"/>
+      <point x="523" y="647" type="line"/>
+      <point x="523" y="676" type="line"/>
+      <point x="112" y="676" type="line"/>
+    </contour>
+  </outline>
+</glyph>
